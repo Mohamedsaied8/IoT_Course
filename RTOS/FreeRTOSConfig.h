@@ -1,4 +1,4 @@
-﻿#ifndef FREERTOS_CONFIG_H
+#ifndef FREERTOS_CONFIG_H
 #define FREERTOS_CONFIG_H
 
 /* Here is a good place to include header files that are required across
