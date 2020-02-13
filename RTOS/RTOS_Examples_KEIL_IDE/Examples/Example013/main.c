@@ -125,7 +125,7 @@ static void vHandlerTask( void *pvParameters )
 		return once the semaphore has been successfully obtained - so there is no
 		need to check the returned value. */
 		xSemaphoreTake( xCountingSemaphore, portMAX_DELAY );
-
+	
 		/* To get here the event must have occurred.  Process the event (in this
 		case we just print out a message). */
 		vPrintString( "Handler task - Processing event.\n" );
