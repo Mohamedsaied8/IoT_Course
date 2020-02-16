@@ -1,0 +1,9 @@
+installation of esp-idf
+https://docs.espressif.com/projects/esp-idf/en/latest/get-started/windows-setup.html
+
+eclipse plugin guide
+https://github.com/espressif/idf-eclipse-plugin
+
+public esp32 channels
+
+https://thingspeak.com/channels/public?tag=esp32
